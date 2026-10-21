@@ -1,0 +1,14 @@
+{
+    "geode": "4.0.0",
+    "id": "hammadfill.autodeco",
+    "name": "Auto Deco Mod",
+    "version": "1.0.0",
+    "developer": "hammadfill",
+    "description": "Auto Deco Mod for Geometry Dash",
+    "supported-platforms": {
+        "win": true,
+        "android": true,
+        "mac": true,
+        "ios": true
+    }
+}
